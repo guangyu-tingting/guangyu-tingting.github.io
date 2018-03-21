@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guangyu and Tingting</title>
+    <title>Categories on Guangyu and Tingting</title>
     <link>/categories/</link>
-    <description>Recent content on Guangyu and Tingting</description>
+    <description>Recent content in Categories on Guangyu and Tingting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Mar 2018 22:26:13 -0500</lastBuildDate>
@@ -12,74 +12,11 @@
     
     
     <item>
-      <title>Stanley Park</title>
-      <link>/blogs/stanley/</link>
+      <title></title>
+      <link>/categories/</link>
       <pubDate>Tue, 20 Mar 2018 22:26:13 -0500</pubDate>
       
-      <guid>/blogs/stanley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stanley Park</title>
-      <link>/blogs/stanley/</link>
-      <pubDate>Tue, 20 Mar 2018 22:26:13 -0500</pubDate>
-      
-      <guid>/blogs/stanley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wedding</title>
-      <link>/blogs/wedding/</link>
-      <pubDate>Tue, 20 Mar 2018 21:28:43 -0500</pubDate>
-      
-      <guid>/blogs/wedding/</guid>
-      <description>We got married March 20th 2018 at Queen Elizabeth Park, Vancouver.</description>
-    </item>
-    
-    <item>
-      <title>wedding</title>
-      <link>/blogs/wedding/</link>
-      <pubDate>Tue, 20 Mar 2018 21:28:43 -0500</pubDate>
-      
-      <guid>/blogs/wedding/</guid>
-      <description>We got married March 20th 2018 at Queen Elizabeth Park, Vancouver.</description>
-    </item>
-    
-    <item>
-      <title>Ring</title>
-      <link>/blogs/ring/</link>
-      <pubDate>Mon, 19 Mar 2018 22:26:09 -0500</pubDate>
-      
-      <guid>/blogs/ring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ring</title>
-      <link>/blogs/ring/</link>
-      <pubDate>Mon, 19 Mar 2018 22:26:09 -0500</pubDate>
-      
-      <guid>/blogs/ring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aliquam</title>
-      <link>/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/blogs/aliquam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aliquam</title>
-      <link>/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/blogs/aliquam/</guid>
+      <guid>/categories/</guid>
       <description></description>
     </item>
     
